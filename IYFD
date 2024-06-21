@@ -9678,7 +9678,7 @@ function(args,speaker)
 		starmanMusic.Name = "Starman"
 		starmanMusic.Volume = 1
 		starmanMusic.Looped = true
-		starmanMusic.SoundId = "rbxassetid://530596723"
+		starmanMusic.SoundId = "rbxassetid://5730840791"
 		wait()
 		starmanMusic:Play()
 
